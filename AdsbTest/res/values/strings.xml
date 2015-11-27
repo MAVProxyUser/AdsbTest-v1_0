@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">AdsbTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ADSB Test</string>
+	<string name="stat_plug_in">Please plug-in ADSB Receiver</string>
+	<string name="stat_ena_gps">Please enable GPS</string>
+	<string name="stat_gps_old">Waiting for GPS-Fix (using old pos.)</string>
+	<string name="stat_wait_gps">Waiting for GPS-Fix</string>
+	<string name="stat_ok">OK</string>
+</resources>

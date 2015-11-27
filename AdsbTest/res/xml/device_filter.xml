@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 0x0d48 / 0xf8e8: GNS ADSB Stick  -->
+    <usb-device vendor-id="1240" product-id="63720" />
+</resources>
